@@ -1,0 +1,26 @@
+Date    Who    Start  Stop    Interruptions     Question      TimeOnTask     Comments
+30/08   J      20:00  21:00                     Preparation       60         Prepare my laptop:register github,piazza, ccs account and blackboard, 
+                                                                             install Racket and github client. 
+31/08   J      13:00  13:10                        EX1            10         Analysis of EX1, program and test.   
+31/08   J      13:20  13:30                        EX2            10         Analysis of EX2, program and test.
+01/09   J      14:00  14:10                        EX3            10         Analysis of EX3, program and test.
+02/09   J      09:43  10:00   8(Telephone call)    EX4            9          Analysis of EX4, program and test.
+02/09   J      10:00  10:04                        EX5            5          Analysis of EX5, program and test.
+02/09   J      10:04  10:12                        EX6            8          Analysis of EX6, program and test.
+02/09   J      10:12  10:16                        EX7            4          Analysis of EX7, program and test.
+02/09   J      10:16  10:21                        EX8            5          Analysis of EX8, program and test.
+03/09   J      13:30  13:50                        EX1-8          20         I didn't check the type of input parameters, so I need to analysis the input parameters                                                                                 and add code to check the type to make sure my code can run sucessfully.
+03/09   J      14:20  15:00                        EX1-8          40         Reprogram to make sure the program consider all situations.(That really waste me a lot of                                                                               time, I need to analysis the question more carefully to avoid these things in the future.)                                                                              Add new tests.
+03/09   J      23:00  23:07                        EX 9           7          Analysis of EX9, program and test.
+03/09   J      23:07  23:17                        EX 10          10         Analysis of EX10, program and test.
+==========================================committing to git: 05/09  17:50==============================================================================================
+
+
+
+
+Total Time On Preparation (minutes)    60
+Total Time On EX1-10 (minutes)         138
+Total Time On Preparation (hours and tenths)    1.0
+Total Time On EX1-10 (hours and tenths)         2.3
+
+    
